@@ -1,9 +1,12 @@
 # Mail-Login-System
 
-Validation form of mail system using JAVA Swing
+#### Validation form of mail system using JAVA Swing
 
-<p align="justify">
-Email program system is to simulate the existing email system.Its purpose is to send and receive electronic mails (e-mails). This project is developed using JAVA and few APIs of Java. The proposed system uses JAVA coding to send the mails. It securely transmits the mail between sender and receiver. The cost of system design is too less when compared to conventional email services. Over all, Email program system is cost effective and doesn’t compromise on security. The Readme file is provided with view to easily understand the project and approach it effectively.
+* Email program system is to simulate the existing email system. Its purpose is to send and receive electronic mails (e-mails). 
+* This project is developed using JAVA and few APIs of Java. 
+* The proposed system uses JAVA coding to send the mails. It securely transmits the mail between sender and receiver. 
+* Over all, Email program system is cost effective and doesn’t compromise on security. 
+* The Readme file is provided with view to easily understand the project and approach it effectively.
 <br>The Project runs and first window (frame) that appears is Login Window.
 <br>Login Window frame consists of two labels, two textboxes and two buttons (LOGIN and CREATE NEW WINDOW). Textboxes are used to take username and password as input from user. The system also ensures that the entered E-mail/Username and password is valid and is not empty. Create New Account button leads to Sign Up frame and Login button leads to Create Mail frame.
 <br>First user needs to create new account through sign up frame. It consists of five labels and 5 textboxes i.e. First Name, Last Name, Phone Number, E-mail ID and Password. Also there are two buttons (SIGN UP and CANCEL). The system checks if all the fields are correctly filled and valid Phone number and E-mail ID is entered. Once the valid data is entered, it is stored and user can login through username and password thereafter.
