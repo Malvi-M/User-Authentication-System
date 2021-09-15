@@ -1,6 +1,6 @@
-# Mail-Login-System
+# User-Authentication-System
 
-#### Validation form of mail system using JAVA Swing
+### Validation form of mail system using JAVA Swing
 
 <p>Email program system is to simulate the existing email system. Its purpose is to send and receive electronic mails (e-mails). This project is developed using JAVA and few APIs of Java. The proposed system uses JAVA coding to send the mails. It securely transmits the mail between sender and receiver. Over all, Email program system is cost effective and doesn’t compromise on security. </p>
 
